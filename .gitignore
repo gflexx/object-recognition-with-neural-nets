@@ -3,3 +3,4 @@ MNIST/
 .ipynb_checkpoints/
 PetImages/
 env/
+*.npy
