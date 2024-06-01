@@ -1,6 +1,6 @@
 # object-recognition-with-neural-nets
 
-I'm playing around with classifiers to build the ultimate tumor detector using neural networks. Welcome to my playground.
+I'm playing around with classifiers to build the ultimate classfier using neural networks. Welcome to my playground.
 
 ## Getting Started
 
