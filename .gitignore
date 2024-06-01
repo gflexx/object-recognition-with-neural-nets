@@ -4,3 +4,5 @@ MNIST/
 PetImages/
 env/
 *.npy
+afhq/
+Cat vs Dog Classifier.*
